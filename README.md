@@ -1,5 +1,5 @@
-# An Analysis of Kickstarter Campaigns
-## Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns for Theatre
+## Examining trends regarding campaign start times and funding goals
 
 [data-1-1-3-StarterBook.xlsx](https://github.com/joepeck28/kickstarter-analysis/files/9480544/data-1-1-3-StarterBook.xlsx)
 
